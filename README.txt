@@ -1,5 +1,5 @@
 TO USE
-Go to the green "Clone or Download" button & click on download zip. Unzip the file. Doubleclicking on any .html file should open it in your browser of choice, or you can drag a file into a browser window. Voila! 
+Go to the green button in the top right & click on download zip. Unzip the file. Doubleclicking on any .html file should open it in your browser of choice, or you can drag a file into a browser window. Voila! 
 
 ABOUT
 This is a patched together html e-book. It's meant to allow students to access their textbook in a browser without needing to use the distracting interface that textbook publishers force students to use. With this version, you can print as much as you want, edit the text to make corrections, access the book from unlimited devices, and keep it indefinitely without worrying that a company will cut off your access to the text that you paid for. 

@@ -1,7 +1,7 @@
 # TO USE
 
 Go to the green button in the top right & click on "download zip". Unzip the file. You should see an html file for the whole book, a folder with html files for each chapter, and then a number of other files that help your browser style the book's appearance and insert images.
-Doubleclicking on any .html file should open it in your browser of choice, or you can drag a file into a browser window. Voila!
+Doubleclicking on any html file should open it in your browser of choice, or you can drag a file into a browser window. Voila!
 
 # ABOUT
 
